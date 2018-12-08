@@ -2,7 +2,7 @@ package unit_1;
 
 import java.util.Scanner;
 
-public class Drill_2 {
+public class Drill2 {
 
 	public static void main(String[] args) {
 		char firstChar;

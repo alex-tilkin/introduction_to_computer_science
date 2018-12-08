@@ -1,7 +1,7 @@
 package unit_2;
 
 
-public class Drill_1 {
+public class Drill1 {
 
 	public static void main(String[] args) {
 		int salary = 8000;

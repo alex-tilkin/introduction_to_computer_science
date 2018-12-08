@@ -2,7 +2,7 @@ package unit_1;
 
 import java.util.Scanner;
 
-public class Drill_5 {
+public class Drill5 {
 
 	public static void main(String[] args) {
 		final int delayInFloorInSecs = 5;

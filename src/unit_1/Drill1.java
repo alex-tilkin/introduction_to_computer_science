@@ -3,7 +3,7 @@ package unit_1;
 import java.util.Calendar;
 import java.util.Scanner;
 
-public class Drill_1 {
+public class Drill1 {
 	public static void main(String[] args) {
 		int yearOfBirth;
 		int id;

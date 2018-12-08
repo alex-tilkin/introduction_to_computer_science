@@ -1,6 +1,6 @@
 package unit_1;
 
-public class Drill_4 {
+public class Drill4 {
 
 	public static void main(String[] args) {
 		double startingPrice = 10.2;
