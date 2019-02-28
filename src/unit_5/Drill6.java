@@ -17,10 +17,10 @@ public class Drill6 {
 		int 	column 		= -1;
 
 		char[][] pathMatrix = { { 'a', 'a', 'a', 'a', 'a', '|' },
-				{ 'a', 'a', 'a', 'a', 'a', '|' },
-				{ 'a', 'a', 'a', '|', '-', '-' },
-				{ 'a', 'a', '|', '-', 'a', 'a' },
-				{ 'a', 'a', '|', 'a', 'a', 'a' } };
+								{ 'a', 'a', 'a', 'a', 'a', '|' },
+								{ 'a', 'a', 'a', '|', '-', '-' },
+								{ 'a', 'a', '|', '-', 'a', 'a' },
+								{ 'a', 'a', '|', 'a', 'a', 'a' } };
 
 		for(column = 0; column < NUMBER_OF_COLUMNS; column++){
 			if(pathMatrix[0][column] == '|'){
