@@ -1,6 +1,6 @@
 package unit_8;
 
-public class FootballPlayerWithAcceessRights {
+public class FootballPlayerFinalVersion {
 	private int yearOfBirth;
 	private String name;
 	String team;
@@ -10,21 +10,7 @@ public class FootballPlayerWithAcceessRights {
 		return yearOfBirth;
 	}
 
-	public void setYearOfBirth(int yearOfBirth) {
-		this.yearOfBirth = yearOfBirth;
-	}
-	
-	public void setYearOfBirthWithValidation(int yearOfBirth) {
-		if(yearOfBirth < 0){
-			System.out.println("Invalid yearOfBirth, cant be negative");
-			
-			return;
-		}
-		
-		this.yearOfBirth = yearOfBirth;
-	}
-
-	public boolean setYearOfBirthWithValidationAndIndication(int yearOfBirth) {
+	public boolean setYearOfBirth(int yearOfBirth) {
 		if(yearOfBirth < 0){
 			System.out.println("Invalid yearOfBirth, cant be negative");
 			
@@ -40,21 +26,7 @@ public class FootballPlayerWithAcceessRights {
 		return name;
 	}
 
-	public void setName(String name) {
-		this.name = name;
-	}
-	
-	public void setNameWithValidation(String name) {
-		if(name == null || name.equals("")){
-			System.out.println("Invalid name, can't be NULL or empty string");
-			
-			return;
-		}
-		
-		this.name = name;
-	}
-
-	public boolean setNameWithValidationAndIndication(String name) {
+	public boolean setName(String name) {
 		if(name == null || name.equals("")){
 			System.out.println("Invalid name, can't be NULL or empty string");
 			
