@@ -7,12 +7,12 @@ class BubbleSort{
 		
 		System.out.println("Before sorting:");
 		Print(array);
-		Sort(array);
+		sort(array);
 		System.out.println("After sorting:");
 		Print(array);
 	}
 
-	public static void Sort(int array[]){
+	public static void sort(int array[]){
 		int n = array.length;
 		
 		for (int index = 0; index < n - 1; index++){

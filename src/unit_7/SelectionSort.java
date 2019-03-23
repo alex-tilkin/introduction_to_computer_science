@@ -6,12 +6,12 @@ class SelectionSort {
 		int array[] = {64, 25, 12, 22, 11};
 		System.out.println("Before Selection Sort:");
 		PrintArray(array);
-		Sort(array);
+		sort(array);
 		System.out.println("After Selection Sort:");
 		PrintArray(array);
 	}
 
-	public static void Sort(int array[]) {
+	public static void sort(int array[]) {
 		int length = array.length;
 
 		for (int index = 0; index < length - 1; index++) {
