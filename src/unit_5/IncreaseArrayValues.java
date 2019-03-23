@@ -2,7 +2,7 @@ package unit_5;
 
 import java.util.Random;
 
-public class IcreaseArrayValues {
+public class IncreaseArrayValues {
 
 	public static void main(String[] args) {
 		int[] array = new int[4];

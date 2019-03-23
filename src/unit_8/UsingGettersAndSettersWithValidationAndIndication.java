@@ -24,6 +24,9 @@ public class UsingGettersAndSettersWithValidationAndIndication {
 			isYearOfBirthSet = footballPlayer.setYearOfBirthWithValidationAndIndication(yearOfBirth);	
 		} while (!isYearOfBirthSet);
 		
+		footballPlayer.superbowlWins = 0;
+		footballPlayer.team = "Los Angeles Rams";
+		
 		footballPlayer.printInfo();
 	}
 }
