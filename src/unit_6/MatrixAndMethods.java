@@ -7,7 +7,7 @@ public class MatrixAndMethods {
 	public static void main(String[] args) {
 		final int WIDTH = 4;
 		final int LENGTH = 5;
-		int[][] matrix = new int[4][5];
+		int[][] matrix = new int[WIDTH][LENGTH];
 		
 		System.out.println("Before filling the matrix:");
 		printMatrix(matrix);
