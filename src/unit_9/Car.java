@@ -64,7 +64,7 @@ public class Car {
 	
 	public void printPassengers() {
 		System.out.println("The passengers are:");
-		for (int index = 0; index < passengers.length; index++) {
+		for (int index = 0; index < numOfPassengers; index++) {
 			System.out.println(passengers[index]);
 		}
 	}
