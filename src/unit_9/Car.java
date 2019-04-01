@@ -21,7 +21,17 @@ public class Car {
 	public Car() {
 		System.out.println("In default constructor");
 	}
-
+	
+	public Car(Car otherCar) {
+		manufacturer = otherCar.manufacturer;
+		manufacturingYear = otherCar.manufacturingYear;
+		numOfPassengers = otherCar.numOfPassengers;
+		passengers = new String[otherCar.passengers.length];
+		for (int index = 0; index < passengers.length; index++) {
+			passengers[index] = otherCar.passengers[index];
+		}
+	}
+	
 	public boolean addPassenger(String newPassenger) {
 		if(numOfPassengers == passengers.length) {
 			return false;
