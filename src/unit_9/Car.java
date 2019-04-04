@@ -5,10 +5,10 @@ public class Car {
 	private int manufacturingYear;
 	private String[] passengers;
 	private int numOfPassengers;
+	private String color;
 	
 	public Car(String manufacturer, int manufacturingYear, int maxNumOfPAssengers) {
-		setManufacturer(manufacturer);
-		setManufacturingYear(manufacturingYear);
+		this(manufacturer, manufacturingYear);
 		passengers = new String[maxNumOfPAssengers];
 	}
 	
@@ -77,5 +77,9 @@ public class Car {
 		for (int index = 0; index < numOfPassengers; index++) {
 			System.out.println(passengers[index]);
 		}
+	}
+
+	public void setColor(String colot) {
+		this.color = color;
 	}
 }
