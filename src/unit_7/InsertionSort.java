@@ -10,19 +10,19 @@ public class InsertionSort {
 		printArray(arr);
 	}
 
-	static void sort(int arr[]) {
-		int n = arr.length;
+	static void sort(int array[]) {
+		int length = array.length;
 		
-		for (int i = 1; i < n; ++i) {
-			int key = arr[i];
-			int j = i - 1;
+		for (int indexA = 1; indexA < length; ++indexA) {
+			int key = array[indexA];
+			int indexB = indexA - 1;
 			
-			while (j >= 0 && arr[j] > key) {
-				arr[j + 1] = arr[j];
-				j = j - 1;
+			while (indexB >= 0 && array[indexB] > key) {
+				array[indexB + 1] = array[indexB];
+				indexB = indexB - 1;
 			}
 			
-			arr[j + 1] = key;
+			array[indexB + 1] = key;
 		}
 	}
 

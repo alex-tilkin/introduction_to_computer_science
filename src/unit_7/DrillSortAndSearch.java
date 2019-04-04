@@ -79,10 +79,10 @@ public class DrillSortAndSearch {
 	private static boolean bubblesort(int[] array) {
 		boolean isSorted = true;
 		
-	    for (int i = 0; i < array.length; i++) {
-	        for(int j = 0; j < array.length - 1; j++) {
-	            if(array[j] > array[j+1]) {
-	                swap(j, j+1, array);
+	    for (int indexA = 0; indexA < array.length; indexA++) {
+	        for(int indexB = 0; indexB < array.length - 1; indexB++) {
+	            if(array[indexB] > array[indexB+1]) {
+	                swap(indexB, indexB+1, array);
 	                isSorted = false;
 	            }
 	        }
@@ -112,37 +112,37 @@ public class DrillSortAndSearch {
 		return isSorted;
 	}
 	
-	private static boolean insertionsort(int arr[]) {
+	private static boolean insertionsort(int array[]) {
 		boolean isSorted = true;
-		int n = arr.length;
+		int length = array.length;
 		
-		for (int i = 1; i < n; ++i) {
-			int key = arr[i];
-			int j = i - 1;
+		for (int indexA = 1; indexA < length; ++indexA) {
+			int key = array[indexA];
+			int indexB = indexA - 1;
 			
-			while (j >= 0 && arr[j] > key) {
-				arr[j + 1] = arr[j];
-				j = j - 1;
+			while (indexB >= 0 && array[indexB] > key) {
+				array[indexB + 1] = array[indexB];
+				indexB = indexB - 1;
 				isSorted = false;
 			}
 			
-			arr[j + 1] = key;
+			array[indexB + 1] = key;
 		}
 		
 		return isSorted;
 	}
 	
-	static int binarySearch(int arr[], int x) {
+	private static int binarySearch(int array[], int x) {
 		int lowBoundry = 0;
-		int highBoundry = arr.length - 1;
+		int highBoundry = array.length - 1;
 		
 		while (lowBoundry <= highBoundry) {
 			int m = lowBoundry + (highBoundry - lowBoundry) / 2;
-			if (arr[m] == x){
+			if (array[m] == x){
 				return m;
 			}
 			
-			if (arr[m] < x){
+			if (array[m] < x){
 				lowBoundry = m + 1;
 			}
 				
@@ -154,10 +154,10 @@ public class DrillSortAndSearch {
 		return -1;
 	}
 	
-	private static void swap(int index1, int index2, int[] array) {
-	    int temp = array[index2];
-	    array[index2] = array[index1];
-	    array[index1] = temp;
+	private static void swap(int indexA, int indexB, int[] array) {
+	    int temp = array[indexB];
+	    array[indexB] = array[indexA];
+	    array[indexA] = temp;
 	}
 	
 	private static void printMatrix(int[][] matrix) {
