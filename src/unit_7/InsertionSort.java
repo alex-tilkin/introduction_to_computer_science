@@ -4,9 +4,11 @@ public class InsertionSort {
 
 	public static void main(String args[]) {
 		int arr[] = { 12, 11, 13, 5, 6 };
-
+			
+		System.out.println("Before sort:");
+		printArray(arr);
 		sort(arr);
-
+		System.out.println("After sort:");
 		printArray(arr);
 	}
 

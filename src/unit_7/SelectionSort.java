@@ -4,6 +4,7 @@ class SelectionSort {
 
 	public static void main(String args[]) {
 		int array[] = {64, 25, 12, 22, 11};
+		
 		System.out.println("Before Selection Sort:");
 		PrintArray(array);
 		sort(array);
@@ -11,21 +12,30 @@ class SelectionSort {
 		PrintArray(array);
 	}
 
-	public static void sort(int array[]) {
+	private static void sort(int array[]) {
 		int length = array.length;
 
 		for (int index = 0; index < length - 1; index++) {
-			int min_idx = index;
-			for (int indexB = index + 1; indexB < length; indexB++){
-				if (array[indexB] < array[min_idx]) {
-					min_idx = indexB;
-				}
-			}
-
-			int temp = array[min_idx];
-			array[min_idx] = array[index];
-			array[index] = temp;
+			int minimumIndex = findMinimum(array, length, index);
+			swap(array, index, minimumIndex);
 		}
+	}
+
+	private static int findMinimum(int[] array, int length, int index) {
+		int minimumIndex = index;
+		for (int indexB = index + 1; indexB < length; indexB++){
+			if (array[indexB] < array[minimumIndex]) {
+				minimumIndex = indexB;
+			}
+		}
+		
+		return minimumIndex;
+	}
+
+	private static void swap(int[] array, int index, int minimumIndex) {
+		int temp = array[minimumIndex];
+		array[minimumIndex] = array[index];
+		array[index] = temp;
 	}
 
 	public static void PrintArray(int arr[]) {		

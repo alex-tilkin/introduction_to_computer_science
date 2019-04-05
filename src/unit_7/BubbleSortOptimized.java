@@ -2,7 +2,6 @@ package unit_7;
 
 class BubbleSortOptimized{
 	public static void main(String args[]){
-		BubbleSort ob = new BubbleSort();
 		int array[] = {64, 34, 25, 12, 22, 11, 90};
 		
 		System.out.println("Before sorting:");
@@ -13,25 +12,25 @@ class BubbleSortOptimized{
 	}
 
 	public static void Sort(int array[]){
-		int n = array.length;
-		boolean isSwaped = false;
+		int length = array.length;
+		boolean isSwapped = true;
 		
-		for (int index = 0; index < n - 1 && !isSwaped; index++){
-			isSwaped = false;
-			for (int indexB = 0; indexB < n - index - 1; indexB++){
-				if (array[indexB] < array[indexB + 1]){
-					Swap(array, indexB);
-					isSwaped = true;
+		for (int index = 0; index < length - 1 && isSwapped; index++){
+			isSwapped = false;
+			for (int indexB = 0; indexB < length - index - 1; indexB++){
+				if (array[indexB] > array[indexB + 1]){
+					swap(array, indexB, indexB + 1); 
+					isSwapped = true;
 				}
 			}
 		}
 	}
 
-	private static void Swap(int[] array, int index) {
-		int temp = array[index];
+	private static void swap(int[] array, int indexA, int indexB) {
+		int temp = array[indexA];
 		
-		array[index] = array[index + 1]; 
-		array[index + 1] = temp;
+		array[indexA] = array[indexB]; 
+		array[indexB] = temp;
 	}
 
 	public static void Print(int array[]){ 

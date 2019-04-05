@@ -58,8 +58,8 @@ public class DrillSortAndSearch {
 		do{
 			isSorted = true;
 			for(int index = 0; index < matrix.length; index++){
-				isSorted = bubblesort(matrix[index]);
-				//isSorted = selectionsort(matrix[index]);
+				//isSorted = bubblesort(matrix[index]);
+				isSorted = selectionsort(matrix[index]);
 				//isSorted = insertionsort(matrix[index]);
 			}
 			

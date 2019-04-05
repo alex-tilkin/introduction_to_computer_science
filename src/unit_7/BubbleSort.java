@@ -12,23 +12,23 @@ class BubbleSort{
 		Print(array);
 	}
 
-	public static void sort(int array[]){
-		int n = array.length;
+	public static void sort(int[] array){
+		int length = array.length;
 		
-		for (int index = 0; index < n - 1; index++){
-			for (int indexB = 0; indexB < n - index - 1; indexB++){
+		for (int index = 0; index < length - 1; index++){
+			for (int indexB = 0; indexB < length - index - 1; indexB++){
 				if (array[indexB] > array[indexB + 1]){
-					Swap(array, indexB); 
+					swap(array, indexB, indexB + 1); 
 				}
 			}
 		}
 	}
 
-	private static void Swap(int[] array, int index) {
-		int temp = array[index];
+	private static void swap(int[] array, int indexA, int indexB) {
+		int temp = array[indexA];
 		
-		array[index] = array[index + 1]; 
-		array[index + 1] = temp;
+		array[indexA] = array[indexB]; 
+		array[indexB] = temp;
 	}
 
 	public static void Print(int array[]){ 
