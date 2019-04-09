@@ -23,7 +23,18 @@ public class Coach {
 		return team;
 	}
 
-	public void setTeam(Team team) {
-		this.team = team;
+	public void setTeam(Team newTeam) {
+		if(team != newTeam) {
+			team = newTeam;
+			if(team != null) {
+				team.setCoach(this);
+			}
+		}
+	}
+	
+	public void show() {
+		System.out.print(name + "'s experience is " + 
+				yearsOfExperience + " years, and he " + 
+				(team == null ? "doesn't coach any team now" : "coaches the team " + team.getName()));
 	}
 }
