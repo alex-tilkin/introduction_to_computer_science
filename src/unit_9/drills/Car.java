@@ -21,6 +21,11 @@ public class Car {
 		tests = new Date[DEFAULT_VECTOR_SIZE];
 	}
 	
+	
+	boolean isValid(int row, int column, int numOfRows, int numOfColumns) {
+		return row >= 0 && column >= 0 && column < numOfColumns && row < numOfRows;
+	}
+	
 	public Car(final int carNumber, final String manufacturer, final String model) {
 		this(carNumber, manufacturer, model, DEFAULT_COLOR);
 	}

@@ -19,8 +19,17 @@ public class MultipleInstantiationsOfFootballPlayer {
 		
 		System.out.println("Information about Jared Goff:");
 		jaredGoff.printInfo();
-		System.out.println("");
+		System.out.println();
 		System.out.println("Information about Tome Brady:");
 		tomBrady.printInfo();
+		
+		FootballPlayerWithAcceessRights footballPlayerWithAcceessRights = new FootballPlayerWithAcceessRights();
+		
+		
+		
+		footballPlayerWithAcceessRights.setName("Michael");
+		footballPlayerWithAcceessRights.printInfo();
+		footballPlayerWithAcceessRights.setName("");
+		footballPlayerWithAcceessRights.printInfo();
 	}
 }

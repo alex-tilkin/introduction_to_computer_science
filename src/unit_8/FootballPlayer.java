@@ -15,7 +15,7 @@ public class FootballPlayer {
 	}
 	
 	void run(){
-		System.out.println(name + " running");
+		System.out.println(name + " is running");
 	}
 	
 	void printInfo(){

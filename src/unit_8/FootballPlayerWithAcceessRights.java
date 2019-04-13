@@ -40,8 +40,12 @@ public class FootballPlayerWithAcceessRights {
 		return name;
 	}
 
-	public void setName(String name) {
-		this.name = name;
+	public void setName(String n) {
+		if(n == null || n.equals("")) {
+			return;
+		}
+		
+		name = n;
 	}
 	
 	public void setNameWithValidation(String name) {
