@@ -1,4 +1,4 @@
-package unit_10;
+package unit_10.nfl;
 
 public class FootballTeam {
 	private String name;
@@ -41,7 +41,7 @@ public class FootballTeam {
 	public String toString() {
 		StringBuffer stringBuffer = new StringBuffer(String.format("Name: %s, Number of Football Players: %d", name, numberOfFootballPlayers));
 		
-		for (int index = 0; index < footballPlayers.length; index++) {
+		for (int index = 0; index < numberOfFootballPlayers; index++) {
 			stringBuffer.append("\t" + (index + 1) + ")" + footballPlayers[index].toString() + "\n");
 		}
 		

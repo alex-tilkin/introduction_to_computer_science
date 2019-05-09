@@ -1,4 +1,4 @@
-package unit_10;
+package unit_10.nfl;
 
 public class FootballPlayer {
 	private String name;
