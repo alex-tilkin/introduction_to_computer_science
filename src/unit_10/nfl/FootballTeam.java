@@ -23,7 +23,7 @@ public class FootballTeam {
 		return numberOfFootballPlayers;
 	}
 
-	public void setNumberOfFootballPlayers(int numberOfFootballPlayers) {
+	private void setNumberOfFootballPlayers(int numberOfFootballPlayers) {
 		this.numberOfFootballPlayers = numberOfFootballPlayers;
 	}
 
