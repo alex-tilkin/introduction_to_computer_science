@@ -1,0 +1,25 @@
+package unit_12;
+
+import java.io.File;
+import java.nio.file.FileSystems;
+import java.nio.file.Path;
+
+public class SimpleFileExample {
+
+	public static void main(String[] args) {
+		Path path = FileSystems.getDefault().getPath(".");
+		System.out.println(path.toAbsolutePath());
+		File file = new File("./unit_12/storage/SimpleFile.txt");
+		
+		System.out.println("the name of the file is " + file.getName());
+		System.out.println("Is the file exists? " + file.exists());
+		System.out.println("Is this is a file? " + file.isFile());
+		System.out.println("Is this is a directory? " + file.isDirectory());
+		System.out.println("Can I read from theis file? " + file.canRead());
+		System.out.println("Can I write to this file? " + file.canWrite());
+		System.out.println("Can I execute this file? " + file.canExecute());
+		System.out.println("The path is " + file.getPath());
+		System.out.println("the parent of the file is " + file.getParent());
+		System.out.println("the length of the content of the file is " + file.length());
+	}
+}

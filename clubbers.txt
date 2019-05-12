@@ -1,4 +1,0 @@
-Bar Refaeli;FEMALE;4
-Oz Zehavi;MALE;4
-Matthew Mcconaughey;MALE;4
-Alexandra Daddario;FEMALE;4
