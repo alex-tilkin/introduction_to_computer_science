@@ -5,7 +5,7 @@ import java.io.File;
 public class SimpleFileExample {
 
 	public static void main(String[] args) {
-		File file = new File("src/unit_12/storage/SimpleFile.txt");
+		File file = new File("src/unit_12/storage/simple_file.txt");
 		
 		System.out.println("the name of the file is " + file.getName());
 		System.out.println("Is the file exists? " + file.exists());

@@ -8,7 +8,7 @@ public class SimpleAdditionalFileMethods {
 	public static void main(String[] args) throws IOException {
 		File[] files = new File[3];
 		
-		files[0] = new File("src/unit_12/storage/SimpleFile.txt");
+		files[0] = new File("src/unit_12/storage/simple_file.txt");
 		files[1] = new File("src/unit_12/storage/");
 		files[2] = new File("src/unit_12/storage/additional_file.txt");
 		

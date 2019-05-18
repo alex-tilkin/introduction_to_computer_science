@@ -1,0 +1,2 @@
+hi, this is how we create a text file and writting a sequence of numbers
+0 1 2 
