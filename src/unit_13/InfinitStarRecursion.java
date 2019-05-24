@@ -1,13 +1,12 @@
 package unit_13;
 
-public class StarRecursion {
+public class InfinitStarRecursion {
 	public static void main(String[] args) {
 		star();
 	}
 	
-	public static int count = 1;
 	public static void star() {
-		System.out.println(count++);
+		System.out.println("*");
 		
 		star();
 	}
