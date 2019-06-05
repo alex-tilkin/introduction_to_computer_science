@@ -4,13 +4,13 @@ public class SubSetFinder {
 	public static void main(String[] args) {
 		int[] array = new int[] {1, 2, 3, 4, 5};
 		
-		boolean result = findSubSet(array, array.length, 6);
+		boolean result = findSubSet(array, array.length, 0);
 		
 		System.out.println(result);
 	}
 
 	private static boolean findSubSet(int[] array, int length, int value) {
-		if(length == 0 && value == 0) {
+		if(value == 0) {
 			return true;
 		}
 		

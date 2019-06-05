@@ -3,7 +3,7 @@ package unit_13;
 public class SymmetricArray {
 
 	public static void main(String[] args) {
-		int[] array = new int[] {1, 2, 3, 4, 3, 2, 1};
+		int[] array = new int[] {1, 2, 3, 4, 4, 3, 2, 1};
 
 		boolean result = isSymmetric(array, 0, array.length - 1);
 		

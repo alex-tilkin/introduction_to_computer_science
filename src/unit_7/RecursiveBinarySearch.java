@@ -19,7 +19,10 @@ public class RecursiveBinarySearch {
 	}
 	
 	static int recursiveBinarySearch(int array[], int value, int lowBoundry, int highBoundry) {
-
+		if(lowBoundry > highBoundry) {
+			return -1;
+		}
+		
 		int middle = lowBoundry + (highBoundry - lowBoundry) / 2;
 		
 		if(array[middle] == value) {

@@ -13,6 +13,9 @@ public class Factorial {
 			return 1;
 		}
 		
-		return factorial(number - 1) * number;
+		int recursiveResult = factorial(number - 1);
+		int result = recursiveResult * number;
+		
+		return result;
 	}
 }

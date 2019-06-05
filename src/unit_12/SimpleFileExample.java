@@ -15,6 +15,7 @@ public class SimpleFileExample {
 		System.out.println("Can I write to this file? " + file.canWrite());
 		System.out.println("Can I execute this file? " + file.canExecute());
 		System.out.println("The path is " + file.getPath());
+		System.out.println("The absolute path is " + file.getAbsolutePath());
 		System.out.println("the parent of the file is " + file.getParent());
 		System.out.println("the length of the content of the file is " + file.length());
 	}
