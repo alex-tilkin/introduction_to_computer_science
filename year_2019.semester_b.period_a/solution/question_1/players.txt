@@ -1,0 +1,2200 @@
+Perry Silberman
+nIe3O7fBr8
+Community College of the Air Force
+TeamPlayer
+RunningBack
+Low
+5.842129
+1.9684259
+2.7754474
+6
+-
+Felton Lesher
+NT0UJLn8Hz
+Community College of the Air Force
+TeamPlayer
+TightEnd
+Average
+9.481654
+2.696331
+4.10994
+10
+-
+Major Lincoln
+LQUXZMncvR
+Alabama A & M University
+LoneWolf
+OffensiveLine
+Average
+11.1619835
+3.0323968
+4.726061
+12
+-
+Greg Schlueter
+xpZAMMwWZB
+University of Alabama at Birmingham
+TeamPlayer
+TightEnd
+Average
+9.220096
+2.6440191
+4.014035
+10
+-
+Clement Strawn
+5Mi8ZT4TgN
+UAB School of Optometry
+LoneWolf
+Center
+Average
+15.078595
+3.8157191
+6.1621513
+17
+-
+Broderick Mcgaughey
+H8ZvO1IYLN
+UAB School of Dentistry
+LoneWolf
+Guard
+Good
+17.267673
+4.2535343
+6.964813
+19
+-
+Renato Johnsen
+TBaAcuUxsW
+Amridge University
+LoneWolf
+OffensiveTackle
+Good
+20.216188
+4.8432374
+8.045936
+23
+-
+Fletcher Mento
+u4csxR73xo
+University of Alabama at Huntsville
+TeamPlayer
+Quarterback
+Low
+2.83474
+1.366948
+1.672738
+3
+-
+Aldo Harth
+OKlJvJP368
+Alabama State University
+CoOperative
+DefensiveEnd
+Good
+21.887766
+5.177553
+8.658848
+25
+-
+Landon Schroeder
+IgapRj78HW
+The University of Alabama
+LoneWolf
+OffensiveLine
+Average
+12.981017
+3.3962035
+5.3930397
+14
+-
+Dane Ammann
+wTYPDfR6zM
+Central Alabama Community College
+TeamPlayer
+WideReceiver
+Low
+6.0710745
+2.014215
+2.859394
+6
+-
+Oliver Baldonado
+7SRuddbURL
+Childersburg Campus
+CoOperative
+Linebacker
+Talent
+28.039099
+6.4078197
+10.914336
+32
+-
+Alfonzo Jantzen
+VVEkHYQoKU
+Alexander City Campus
+TeamPlayer
+WideReceiver
+Low
+7.6866803
+2.337336
+3.451783
+8
+-
+Britt Mcmaster
+YrMHtyOMsS
+Athens State University
+CoOperative
+Cornerback
+Talent
+28.700224
+6.540045
+11.156749
+33
+-
+Nicholas Milone
+upDwclUINn
+Northeast Alabama CC
+TeamPlayer
+WideReceiver
+Low
+7.8713427
+2.3742685
+3.5194921
+9
+-
+Joe Bagdon
+m1XFTLAYqL
+Northwest - Shoals Alabama CC
+TeamPlayer
+WideReceiver
+Low
+7.1825457
+2.2365093
+3.2669334
+8
+-
+Kermit Hooton
+j68Z0MwHkt
+Redstone Arsenal
+LoneWolf
+Center
+Average
+15.1657915
+3.8331585
+6.1941237
+17
+-
+Alex Weckerly
+j5UXJeJvFY
+Snead State CC
+TeamPlayer
+WideReceiver
+Low
+6.80028
+2.160056
+3.1267693
+7
+-
+Rudolf Pariseau
+NfH6KaC9f3
+Wallace State Comm Coll - Hanceville
+CoOperative
+DefensiveTackle
+Talent
+24.119596
+5.623919
+9.477185
+27
+-
+Markus Presgraves
+SuURmgRhQD
+Auburn University-Montgomery
+LoneWolf
+OffensiveTackle
+Good
+19.655537
+4.731107
+7.8403635
+22
+-
+Felix Halsted
+5wDhGdggUV
+Auburn University Main Campus
+TeamPlayer
+RunningBack
+Low
+4.8881154
+1.777623
+2.4256425
+5
+-
+Willie Ransdell
+OZWjvwjUec
+Mobile Campus (Pharmacy)
+LoneWolf
+Center
+Average
+14.823498
+3.7646995
+6.068616
+17
+-
+Wm Speciale
+WzRdcx0CDb
+Birmingham Southern College
+LoneWolf
+Guard
+Good
+16.68211
+4.136422
+6.7501073
+19
+-
+Marquis Krantz
+OfpKze9GDv
+Chattahoochee Valley Community College
+CoOperative
+DefensiveTackle
+Talent
+25.379986
+5.875997
+9.939328
+29
+-
+Emmett Demark
+wd6pYlngNv
+Concordia College Alabama
+TeamPlayer
+TightEnd
+Average
+10.247673
+2.8495345
+4.3908134
+11
+-
+Theron Sommer
+MIUGGiqnFF
+DCH Regional Medical Center
+LoneWolf
+Guard
+Good
+17.856022
+4.3712044
+7.1805415
+20
+-
+Davis Corea
+W9PvGfAqcG
+Enterprise State Community College
+CoOperative
+Linebacker
+Talent
+27.315111
+6.2630224
+10.648874
+31
+-
+Joseph Goslin
+LN7FGYZNst
+AAC at Mobile
+CoOperative
+DefensiveTackle
+Talent
+25.468197
+5.8936396
+9.971672
+29
+-
+Gale Gunderman
+ySWXR3yNuU
+AAC at Ozark
+CoOperative
+Linebacker
+Talent
+26.665825
+6.1331654
+10.410803
+30
+-
+Stanley Morvant
+n1qauG0dvh
+James H. Faulkner State Community College
+CoOperative
+DefensiveTackle
+Talent
+24.881853
+5.7763705
+9.75668
+28
+-
+Trevor Corriveau
+Qac29fZm3u
+Faulkner State Fairhope Campus
+LoneWolf
+Center
+Average
+14.225914
+3.6451826
+5.8495016
+16
+-
+Keneth Mulvaney
+hyhz5t229B
+Faulkner State Gulf Shores Campus
+TeamPlayer
+RunningBack
+Low
+5.775172
+1.9550344
+2.7508965
+6
+-
+Johnson Kibler
+qI7C97gffm
+Faulkner State at Daphne High School
+LoneWolf
+OffensiveLine
+Average
+11.597464
+3.1194925
+4.8857365
+13
+-
+Ken Jeanlouis
+t6aTh91vpA
+Faulkner University
+LoneWolf
+OffensiveLine
+Average
+13.388932
+3.4777865
+5.5426083
+15
+-
+Deshawn Randle
+APIXkXB8E7
+FAULKNER UNIVERSITY-HUNTSVILLE
+CoOperative
+Cornerback
+Talent
+30.47036
+6.894072
+11.805799
+35
+-
+Ellsworth Bechard
+fc83myBJxA
+Birmingham
+LoneWolf
+Center
+Average
+14.215544
+3.6431088
+5.8456993
+16
+-
+Cedrick Mailhot
+h0OUzqsrWu
+Mobile
+CoOperative
+Linebacker
+Talent
+27.299852
+6.25997
+10.643279
+31
+-
+Jewel Milano
+EUEFJNOiDC
+Gadsden Business College
+TeamPlayer
+WideReceiver
+Low
+6.492194
+2.0984387
+3.0138044
+7
+-
+Thurman Croswell
+F8NXcbtGsn
+Gadsden Business College - Anniston Campus
+CoOperative
+Cornerback
+Talent
+29.962643
+6.7925286
+11.619636
+34
+-
+Trenton Suggs
+uToXUdl3YQ
+Gadsden State Community College
+LoneWolf
+Center
+Average
+15.050419
+3.8100839
+6.15182
+17
+-
+Harlan Schlabach
+UPrzOhzo3L
+Gadsden State Community College - Ayers Campus
+TeamPlayer
+WideReceiver
+Low
+8.38534
+2.477068
+3.707958
+9
+-
+Houston Coots
+ObQV3ZU1zz
+George C Wallace Community College
+TeamPlayer
+TightEnd
+Average
+9.016082
+2.6032164
+3.93923
+10
+-
+Rick Kierstead
+0xF5LMS83I
+Ft. Rucker Center
+CoOperative
+Cornerback
+Talent
+30.535664
+6.9071326
+11.829743
+35
+-
+Kelvin Diehl
+Mv9kDXgktN
+Sparks Campus
+LoneWolf
+OffensiveLine
+Average
+12.870863
+3.3741727
+5.3526497
+14
+-
+Brendan Guyette
+7SsuzB7ASw
+Clanton Ext
+TeamPlayer
+TightEnd
+Average
+10.93496
+2.9869921
+4.6428185
+12
+-
+Sanford Raskin
+06Plann0EU
+Wallace State Community College  - Hanceville
+CoOperative
+DefensiveEnd
+Good
+23.344378
+5.468876
+9.192939
+27
+-
+Alonso Forshee
+3bpgoKcy7t
+George Corley Wallace State Community College - Selma
+TeamPlayer
+WideReceiver
+Low
+6.839713
+2.1679425
+3.1412282
+7
+-
+Douglass Pascual
+UD1mTCi9lv
+Huntingdon College
+LoneWolf
+Center
+Average
+15.713762
+3.9427524
+6.395046
+18
+-
+Giuseppe Mortimer
+jJzN1MEuPm
+Huntsville Hospital
+CoOperative
+Cornerback
+Talent
+29.393293
+6.678659
+11.410874
+34
+-
+Jerrell Perri
+00RHVQqXNu
+Heritage Christian University
+CoOperative
+DefensiveEnd
+Good
+22.397842
+5.2795687
+8.845876
+25
+-
+Roy Zeman
+y7PDBt2rBk
+J.F. Drake State Community and Technical College
+TeamPlayer
+TightEnd
+Average
+8.904374
+2.580875
+3.8982706
+10
+-
+Shayne Shreve
+76xitbkHCP
+J F Ingram State Technical College
+TeamPlayer
+TightEnd
+Average
+10.642269
+2.928454
+4.5354986
+12
+-
+Roman Lafontaine
+CNQ8hfmEHu
+J. F. Ingram State Technical College, Donaldson Correctional Facility
+TeamPlayer
+Quarterback
+Low
+1.5959051
+1.119181
+1.2184985
+1
+-
+Dave Mani
+eEj0qbmtkt
+J. F. Ingram State Technical College, Draper Instructional Service Center
+CoOperative
+DefensiveTackle
+Talent
+25.840473
+5.968095
+10.108173
+29
+-
+Shirley Rother
+HzCET3yszR
+J. F. Ingram State Technical College, Tutwiler Instructional Service Center
+LoneWolf
+Center
+Average
+14.913124
+3.7826247
+6.101479
+17
+-
+Numbers Kamer
+wPRg1nn8YD
+Jacksonville State University
+TeamPlayer
+WideReceiver
+Low
+6.2070556
+2.0414112
+2.9092536
+7
+-
+Gregory Chaloux
+CwSH8Sj7ba
+Jefferson Davis Community College
+TeamPlayer
+Quarterback
+Low
+1.0989188
+1.0197837
+1.0362703
+1
+-
+Winfred Gaskin
+phDRSPe8Fb
+Atmore
+LoneWolf
+Guard
+Good
+16.542847
+4.108569
+6.6990438
+19
+-
+Franklyn Koffler
+Udmnmr0BwJ
+Jefferson State Community College
+TeamPlayer
+TightEnd
+Average
+9.152276
+2.630455
+3.9891677
+10
+-
+Hubert Tegeler
+O6RXGHGtfz
+Richard M. Scrushy Campus
+LoneWolf
+Center
+Average
+14.476008
+3.6952016
+5.941203
+16
+-
+Hunter Vandusen
+liricxEWOq
+Calhoun Community College
+CoOperative
+Cornerback
+Talent
+29.486238
+6.6972475
+11.444954
+34
+-
+Donovan Schommer
+vfVdZrs6mL
+Decatur Fire and Rescue Center
+CoOperative
+Linebacker
+Talent
+27.446304
+6.289261
+10.696978
+31
+-
+Mario Hagel
+jZrlHeH9Mk
+Judson College
+TeamPlayer
+WideReceiver
+Low
+8.19544
+2.439088
+3.638328
+9
+-
+Dino Brooke
+3CcWTAzWJ5
+University of West Alabama
+LoneWolf
+OffensiveTackle
+Good
+20.779093
+4.955818
+8.252334
+24
+-
+Gabriel Krauth
+HOAnqh1PeO
+Lurleen B Wallace Community College
+TeamPlayer
+TightEnd
+Average
+9.523243
+2.7046485
+4.125189
+10
+-
+Mohammad Torian
+e0voG3pJFO
+Lurleen B Wallace Community College - Greenville Campus
+LoneWolf
+Center
+Average
+14.274453
+3.6548908
+5.8672996
+16
+-
+Preston Barefoot
+y3XRow62ti
+Lurleen B Wallace Community College - Springdale
+CoOperative
+Cornerback
+Talent
+30.171879
+6.834376
+11.696356
+35
+-
+Dorian Peay
+eAbMaP7cqr
+MacArthur Campus
+LoneWolf
+OffensiveLine
+Average
+11.961487
+3.1922975
+5.019212
+13
+-
+Nathanael Rosenberg
+XwSxdWak15
+Marion Military Institute
+TeamPlayer
+Quarterback
+Low
+2.9066367
+1.3813274
+1.6991003
+3
+-
+Weston Santee
+WgwmQ5YXLJ
+Miles College
+LoneWolf
+Guard
+Good
+17.02869
+4.205738
+6.8771863
+19
+-
+Roderick Giese
+X2cCPnzw3S
+University of Mobile
+CoOperative
+DefensiveEnd
+Good
+23.441639
+5.488328
+9.2286005
+27
+-
+Marlon Sackrider
+bilt0pUmnD
+University of Montevallo
+TeamPlayer
+RunningBack
+Low
+3.7721627
+1.5544325
+2.0164597
+4
+-
+Moses Wicklund
+su8sdimeik
+Northwest-Shoals Community College - Muscle Shoals
+LoneWolf
+Center
+Average
+13.9285345
+3.585707
+5.740463
+16
+-
+Tobias Appel
+EnvNYeWvKN
+Phil Campbell Campus
+TeamPlayer
+Quarterback
+Low
+2.8821595
+1.376432
+1.6901252
+3
+-
+Billie Freda
+KHGPd3m7hX
+Shoals Campus
+CoOperative
+DefensiveEnd
+Good
+22.162556
+5.232511
+8.7596035
+25
+-
+Donny Kessler
+692WHsd2hd
+University of North Alabama
+CoOperative
+DefensiveTackle
+Talent
+25.03649
+5.8072977
+9.813379
+29
+-
+Leopoldo Vales
+ypoIJUQSBc
+Northeast Alabama Community College
+TeamPlayer
+Quarterback
+Low
+2.6286707
+1.3257341
+1.5971793
+2
+-
+Nestor Wolery
+7yIy6feJEY
+Northwest-Shoals Community College - Phil Campbell
+CoOperative
+DefensiveTackle
+Talent
+24.951876
+5.790375
+9.782354
+28
+-
+Rosario Fred
+FslEsf8H10
+Oakwood University
+LoneWolf
+Guard
+Good
+17.08376
+4.216752
+6.8973784
+19
+-
+Mason Winburn
+vgtCoIUKbl
+Alabama Southern Community College
+CoOperative
+Cornerback
+Talent
+30.470514
+6.894103
+11.805855
+35
+-
+Margarito Mertz
+6OU8xrV4xR
+Jackson Campus
+LoneWolf
+Guard
+Good
+17.95202
+4.390404
+7.2157407
+20
+-
+Barrett Silvestri
+QIj4FqDI5z
+Thomasville Campus
+TeamPlayer
+RunningBack
+Low
+5.481369
+1.8962739
+2.6431687
+6
+-
+Elmer Conry
+uJqRix2eJB
+Gilbertown Campus
+TeamPlayer
+TightEnd
+Average
+10.437448
+2.8874893
+4.4603972
+12
+-
+Rob Urbain
+vpssBtOB6C
+Demopolis Campus
+CoOperative
+DefensiveTackle
+Talent
+25.390978
+5.8781953
+9.943358
+29
+-
+Coy Furguson
+5dpe0CdQnv
+Prince Institute - Southeast
+LoneWolf
+OffensiveLine
+Average
+13.059959
+3.4119918
+5.421985
+15
+-
+Lee Scheurer
+Sj6pUot4DW
+Prince Institute - Great Lakes
+LoneWolf
+Guard
+Good
+18.206524
+4.441305
+7.309059
+21
+-
+Nicky Lemus
+P37si5szBB
+Prince Institute - Rocky Mountains
+LoneWolf
+Center
+Average
+14.025306
+3.605061
+5.7759457
+16
+-
+Christoper Waldron
+fGzJM6KD7Q
+Reid State Technical College
+TeamPlayer
+RunningBack
+Low
+4.159132
+1.6318264
+2.1583486
+4
+-
+Elton Whang
+19E3ZAIR3J
+Reid State Technical College Extension Campus
+TeamPlayer
+Quarterback
+Low
+1.2614545
+1.0522909
+1.0958667
+1
+-
+Trinidad Lash
+XsrpG8XU68
+Reid State Technical College at Jeff Davis Community College
+LoneWolf
+OffensiveLine
+Average
+13.104987
+3.4209974
+5.438495
+15
+-
+Bryan Salzer
+RPaMBityO5
+Reid State Technical College, South Baldwin Transportation Site
+LoneWolf
+OffensiveTackle
+Good
+19.508074
+4.701615
+7.7862935
+22
+-
+Leslie Grayer
+wzZIK3LdfF
+Bishop State Community College
+CoOperative
+Cornerback
+Talent
+29.967962
+6.7935925
+11.621587
+34
+-
+Ivan Schaefer
+WXC6by35fk
+Samford University
+TeamPlayer
+Quarterback
+Low
+2.0366378
+1.2073276
+1.3801005
+2
+-
+Vicente Gothard
+1lRU2kTPxr
+Shelton State Community College
+CoOperative
+Linebacker
+Talent
+27.344748
+6.2689495
+10.659741
+31
+-
+Monroe Ballew
+89xa64R0ze
+Shelton State Community College - C.A. Fredd Campus
+LoneWolf
+OffensiveTackle
+Good
+19.506311
+4.701262
+7.7856474
+22
+-
+Dana Maser
+wmVagKK7BV
+Snead State Community College
+TeamPlayer
+WideReceiver
+Low
+6.5412903
+2.108258
+3.0318065
+7
+-
+Shane Blades
+cOB1nU1Cg2
+University of South Alabama
+TeamPlayer
+Quarterback
+Low
+2.3184733
+1.2636948
+1.4834403
+2
+-
+Stanley Fenn
+xDrqCuJze7
+University of South Alabama - Springhill
+LoneWolf
+OffensiveTackle
+Good
+19.050255
+4.610051
+7.618427
+22
+-
+Pedro Flatt
+BsQa2d1hwF
+Southern Community College
+LoneWolf
+Guard
+Good
+17.407606
+4.281521
+7.016122
+20
+-
+Patricia Ga
+Ivt7dUyuU2
+Spring Hill College
+LoneWolf
+OffensiveLine
+Average
+12.4598465
+3.2919693
+5.2019434
+14
+-
+Mason Swensen
+wLXW7vm1wq
+Southeastern Bible College
+TeamPlayer
+TightEnd
+Average
+8.579086
+2.5158174
+3.7789984
+9
+-
+Huey Look
+xaMtBO7Dge
+Stillman College
+LoneWolf
+Center
+Average
+15.494621
+3.8989244
+6.3146944
+17
+-
+Teddy Poeppelman
+Dw2SZeWYFr
+Talladega College
+CoOperative
+DefensiveEnd
+Good
+22.750025
+5.3500047
+8.975009
+26
+-
+Seymour Clothier
+Wkk6Q2pXDN
+H. Councill Trenholm State Community College
+CoOperative
+Linebacker
+Talent
+26.163292
+6.0326586
+10.226541
+30
+-
+Jimmy Brunelle
+29pk3fVmvl
+H Councill Trenholm State Technical College - Patterson Campus
+CoOperative
+Cornerback
+Talent
+30.335684
+6.8671365
+11.756417
+35
+-
+Alexander Woolley
+JGOPHkUWjR
+Troy University
+LoneWolf
+Center
+Average
+14.504276
+3.7008553
+5.9515676
+16
+-
+Isidro Luciano
+lX0X3tu67W
+Troy University - Dothan
+LoneWolf
+Guard
+Good
+17.713707
+4.342741
+7.128359
+20
+-
+Bobbie Mans
+PkYAqHqTuU
+Troy University - Montgomery
+CoOperative
+DefensiveTackle
+Talent
+24.19868
+5.639736
+9.506184
+28
+-
+Larry Perrett
+PX6HC7Shna
+Troy University - Phenix City
+CoOperative
+DefensiveTackle
+Talent
+25.446854
+5.889371
+9.963846
+29
+-
+Arturo Widman
+69Shq0I4c2
+Troy University - Atlantic Region
+CoOperative
+Linebacker
+Talent
+27.227573
+6.245515
+10.616776
+31
+-
+Heath Kyker
+74ctXR5UdJ
+Troy University - Western Region
+TeamPlayer
+TightEnd
+Average
+8.602161
+2.5204325
+3.7874594
+9
+-
+Reggie Despres
+IcwyHiWVky
+Troy University - Southeast Region
+LoneWolf
+Guard
+Good
+16.99487
+4.1989737
+6.864785
+19
+-
+Matthew Sumpter
+A4D1T0lwTt
+Troy University - Atlantic Region
+TeamPlayer
+Quarterback
+Low
+2.0134013
+1.2026802
+1.3715805
+2
+-
+Wallace Bester
+WPUIO9DGng
+Tuskegee University
+CoOperative
+DefensiveEnd
+Good
+21.971664
+5.194333
+8.6896105
+25
+-
+Harris Ellenwood
+YT2UJ8BeV9
+United States Sports Academy
+TeamPlayer
+RunningBack
+Low
+4.2319
+1.6463801
+2.1850302
+4
+-
+Elijah Behar
+U8I1szOP7o
+Bevill State Community College
+CoOperative
+DefensiveTackle
+Talent
+25.338799
+5.8677597
+9.924227
+29
+-
+Marty Testerman
+6lAHLtz0Ee
+BSCC Business Incubator
+TeamPlayer
+TightEnd
+Average
+10.828709
+2.9657419
+4.60386
+12
+-
+Ralph Graydon
+qLvyNCxzX2
+Fayette Campus
+CoOperative
+DefensiveEnd
+Good
+22.55215
+5.31043
+8.902455
+26
+-
+Porfirio Baltz
+d0FcxBvZR5
+Hamilton Campus
+LoneWolf
+OffensiveTackle
+Good
+20.873632
+4.9747267
+8.286999
+24
+-
+Judson Pariseau
+Xnva59cuQP
+Jasper Campus
+LoneWolf
+Guard
+Good
+16.813644
+4.162729
+6.7983365
+19
+-
+Victor Hesse
+BhA7naX3SD
+University of Alaska Anchorage
+CoOperative
+Linebacker
+Talent
+26.142006
+6.0284014
+10.218736
+30
+-
+Sang Noguera
+HatRth9kr8
+University of Alaska Fairbanks
+TeamPlayer
+TightEnd
+Average
+10.527758
+2.9055514
+4.493511
+12
+-
+Bryon Yeoman
+y2SuLnudCY
+Tanana Valley campus
+TeamPlayer
+TightEnd
+Average
+10.800414
+2.960083
+4.5934854
+12
+-
+Simon Vanderploeg
+TzWTAjDZbx
+University of Alaska Southeast
+LoneWolf
+Center
+Average
+14.730223
+3.7460446
+6.034415
+17
+-
+Jerrell Faulkenberry
+QccEa33NqX
+Alaska Pacific University
+LoneWolf
+OffensiveLine
+Average
+11.003765
+3.000753
+4.668047
+12
+-
+Daniel Daigneault
+sKgNYNOW9f
+Alaska Vocational Technical Center
+TeamPlayer
+TightEnd
+Average
+8.807539
+2.5615077
+3.8627641
+10
+-
+Rey Blinn
+rn5q179lec
+Alaska Vocational Technical Center - Allied Health Department
+CoOperative
+Cornerback
+Talent
+28.597702
+6.519541
+11.119158
+33
+-
+Tomas Suydam
+YaEDv1phx5
+Charter College
+TeamPlayer
+Quarterback
+Low
+2.5421066
+1.3084214
+1.5654391
+2
+-
+Sung Hamlett
+XSYLzmbh2q
+Charter College - Mat-Su
+LoneWolf
+Guard
+Good
+16.655815
+4.131163
+6.740466
+19
+-
+Miles Sprow
+qsbXok4H3h
+Charter College - Pasco
+CoOperative
+DefensiveTackle
+Talent
+24.420815
+5.684163
+9.587632
+28
+-
+Arnold Basil
+VumjvZsI2P
+Charter College - Oxnard
+TeamPlayer
+WideReceiver
+Low
+6.1773934
+2.0354786
+2.8983774
+7
+-
+Ray Lengyel
+XOP4mTjnSM
+Charter College - Vancouver
+TeamPlayer
+RunningBack
+Low
+4.3813257
+1.6762652
+2.2398195
+4
+-
+Romeo Marrs
+ygD0OzENXU
+Charter College - Bellingham
+CoOperative
+DefensiveEnd
+Good
+23.309612
+5.461922
+9.180191
+27
+-
+Bertram Tritt
+LLDtyTtSMV
+Charter College - Fife
+TeamPlayer
+TightEnd
+Average
+10.730312
+2.9460626
+4.5677814
+12
+-
+Carlos Veney
+KKUpXfQBBr
+Charter College- Lynwood
+LoneWolf
+Center
+Average
+13.912527
+3.5825055
+5.7345934
+16
+-
+Gilberto Redington
+1emKI12nva
+Charter College - Billings
+TeamPlayer
+WideReceiver
+Low
+7.185554
+2.2371109
+3.2680364
+8
+-
+Kristopher Elizondo
+PVVBcQPr4M
+Charter College - Canyon Country
+CoOperative
+DefensiveEnd
+Good
+22.224459
+5.244892
+8.782302
+25
+-
+Sammie Ismail
+55T3jIgz21
+Charter College - East Wenatchee
+CoOperative
+DefensiveTackle
+Talent
+24.04668
+5.609336
+9.45045
+27
+-
+Peter Smtih
+P3dbkBKEP2
+Charter College - Lacey
+CoOperative
+DefensiveEnd
+Good
+21.47147
+5.094294
+8.506206
+24
+-
+Antonio Frase
+4RuqPnrRu0
+Charter College - Lancaster
+CoOperative
+DefensiveEnd
+Good
+21.909151
+5.1818304
+8.666689
+25
+-
+Augustine Tart
+tvJSM61h1k
+Charter College - Missoula
+LoneWolf
+Guard
+Good
+16.253387
+4.0506773
+6.5929084
+18
+-
+Gaston Jefferies
+h5Z5aTTMXH
+Charter College - Yakima
+CoOperative
+Linebacker
+Talent
+26.467838
+6.093568
+10.338207
+30
+-
+Ronald Sisemore
+nCvKX30jWa
+Prince William Sound Community College
+LoneWolf
+Guard
+Good
+17.779972
+4.3559947
+7.1526566
+20
+-
+Luis Mele
+9xNc9loCnx
+Sheldon Jackson College
+TeamPlayer
+TightEnd
+Average
+10.519409
+2.9038818
+4.49045
+12
+-
+Vaughn Sanderfur
+kpuLOjin1j
+Alaska Career College
+CoOperative
+Linebacker
+Talent
+27.967638
+6.3935275
+10.888134
+32
+-
+Gordon Behrens
+yKSFTMqSqS
+Everest College - Phoenix
+CoOperative
+DefensiveTackle
+Talent
+25.819286
+5.963857
+10.100405
+29
+-
+Darius Przybyla
+e0Gyu5vVPP
+Everest College - Mesa
+TeamPlayer
+RunningBack
+Low
+5.0766006
+1.8153201
+2.4947534
+5
+-
+Jackie Futch
+oRoQjwRz3P
+Thunderbird School of Global Management
+TeamPlayer
+Quarterback
+Low
+1.8758454
+1.1751691
+1.3211433
+2
+-
+Wade Lappin
+cczalPHFTa
+Thunderbird School of Global Management - Miami Campus
+CoOperative
+DefensiveEnd
+Good
+21.10173
+5.0203457
+8.370634
+24
+-
+Zachariah Givens
+bzf2TYSZ8T
+American Indian College
+TeamPlayer
+RunningBack
+Low
+4.8117747
+1.762355
+2.3976507
+5
+-
+Dorsey Pellegrini
+gr2OycR2VC
+American Institute of Trucking
+TeamPlayer
+WideReceiver
+Low
+7.251703
+2.2503405
+3.292291
+8
+-
+Geoffrey Mccartney
+GKGlHRO4mU
+Carrington College - Phoenix
+CoOperative
+DefensiveEnd
+Good
+23.174372
+5.434874
+9.130603
+26
+-
+Colby Tay
+6Qsc0Uf0ZD
+Carrington College - Tucson
+TeamPlayer
+Quarterback
+Low
+2.3792539
+1.2758508
+1.5057263
+2
+-
+Shannon Vieyra
+pAPLO0NxFK
+Carrington College - Las Vegas
+CoOperative
+DefensiveTackle
+Talent
+24.960493
+5.7920985
+9.785514
+28
+-
+Anibal Lambright
+q9OSkNKGfz
+Carrington College - Tri City Inc.
+TeamPlayer
+WideReceiver
+Low
+7.572106
+2.3144212
+3.4097722
+8
+-
+Angelo Rucker
+1T6xxn2cXq
+Carrington College - Westside
+TeamPlayer
+RunningBack
+Low
+4.4096313
+1.6819263
+2.2501981
+4
+-
+Antione Capp
+VFGtj7fKyu
+Carrington College - Online
+TeamPlayer
+WideReceiver
+Low
+6.785568
+2.1571136
+3.121375
+7
+-
+Arthur Padua
+Ju22ZpCXgS
+Carrington College - Albuquerque
+TeamPlayer
+WideReceiver
+Low
+6.425089
+2.0850177
+2.9891992
+7
+-
+Malcolm Fee
+pNWjAW87CC
+College America - Flagstaff
+TeamPlayer
+RunningBack
+Low
+5.4934187
+1.8986838
+2.6475868
+6
+-
+Royce Lybrand
+iHcjF3PTwY
+Arizona Academy of Beauty Inc
+LoneWolf
+OffensiveLine
+Average
+11.267828
+3.0535655
+4.76487
+12
+-
+Eduardo Ashburn
+72O41cq7Ue
+Arizona Automotive Institute
+TeamPlayer
+TightEnd
+Average
+10.0468235
+2.8093648
+4.3171687
+11
+-
+Karl Bliss
+2VVn1yxwhj
+International Institute of the Americas
+TeamPlayer
+Quarterback
+Low
+2.732667
+1.3465334
+1.6353111
+3
+-
+Gregory Abreu
+An3GbuYOVo
+Arizona State University
+LoneWolf
+Guard
+Good
+16.548866
+4.1097736
+6.7012515
+19
+-
+Ricky Horvat
+12dJvlTwXB
+Arizona State University at the Downtown Phoenix Campus
+TeamPlayer
+WideReceiver
+Low
+7.008775
+2.201755
+3.2032177
+8
+-
+Daren Ocasio
+pWnY2ZNVw1
+Arizona State University at the West Campus
+TeamPlayer
+WideReceiver
+Low
+7.455638
+2.2911277
+3.3670673
+8
+-
+Troy Michie
+nsk98zezUI
+Arizona State University at the Polytechnic Campus
+CoOperative
+Cornerback
+Talent
+29.336058
+6.6672115
+11.389888
+34
+-
+Korey Wahl
+0SVZxt0WPZ
+Arizona State University at Avondale Lattie Coor
+TeamPlayer
+Quarterback
+Low
+3.2782378
+1.4556476
+1.8353539
+3
+-
+Alvin Minix
+JdVMWQGK2j
+Arizona State University at Chinle Elementary School
+TeamPlayer
+WideReceiver
+Low
+6.22998
+2.045996
+2.9176593
+7
+-
+Isaias Simek
+6IbtmkfA2U
+Arizona State University at Joe Carlson Elementary
+TeamPlayer
+WideReceiver
+Low
+8.252113
+2.4504225
+3.6591082
+9
+-
+Eldridge Sanchez
+mb8wjJ34r5
+Arizona State University at Ganado Middle School (Ganado Unified School District
+CoOperative
+Linebacker
+Talent
+27.13745
+6.22749
+10.583732
+31
+-
+Calvin Wachter
+7CN4cKQcJB
+Arizona State University at Mirage School (Deer Valley School District)
+CoOperative
+Cornerback
+Talent
+28.822605
+6.5645213
+11.201622
+33
+-
+Keneth Rausch
+eBup8ySlni
+Arizona State University at Sonoran Sky Elementary (Pendergast PDS Site)
+CoOperative
+DefensiveEnd
+Good
+22.926964
+5.3853927
+9.039886
+26
+-
+Rene Quintero
+92pzSLE0Cw
+Arizona State University at Lake Havasu
+LoneWolf
+OffensiveTackle
+Good
+19.524715
+4.704943
+7.7923956
+22
+-
+Von Veal
+9pu89ILkXx
+Arizona State University at Cloves Campbell School (Roosevelt District PDS)
+TeamPlayer
+WideReceiver
+Low
+6.4726653
+2.094533
+3.006644
+7
+-
+Brant Kinnaird
+MNDt4m4JTz
+Arizona State University at Longview School
+LoneWolf
+Guard
+Good
+18.160109
+4.4320216
+7.29204
+21
+-
+Delmar Castaneda
+vGVnUfdi5U
+Arizona State University at Madison Park Middle School (Madison Elem District)
+TeamPlayer
+Quarterback
+Low
+1.9730858
+1.1946172
+1.3567982
+2
+-
+Maximo Pennel
+rjYZl70PNg
+Arizona State University at Mayo Clinic Hospital
+TeamPlayer
+Quarterback
+Low
+3.0389395
+1.4077879
+1.7476112
+3
+-
+Dexter Scalf
+B1O1VFWo7H
+Arizona State University at Palomino Elementary School (Paradise Valley PDS Site)
+LoneWolf
+Center
+Average
+13.604141
+3.5208282
+5.621518
+15
+-
+Robbie Mcquay
+ALqaqW6kJY
+Arizona State University at Phoenix College (Phoenix Metro Area)
+CoOperative
+DefensiveTackle
+Talent
+24.995178
+5.7990355
+9.798232
+28
+-
+Lonnie Ranger
+zdO9eMjeIq
+Arizona State University at Gadsden Jr. High School (San Luis PDS Site)
+LoneWolf
+Guard
+Good
+17.038548
+4.2077093
+6.8808007
+19
+-
+Mason Linebaugh
+RFc4rrOWc8
+Arizona State University at Hohokam School
+TeamPlayer
+Quarterback
+Low
+2.5324798
+1.3064959
+1.5619092
+2
+-
+Rosendo Pontbriand
+4k8IwjxoUW
+Arizona State University at TB&B Parkside
+TeamPlayer
+TightEnd
+Average
+10.510843
+2.9021688
+4.4873095
+12
+-
+Larry Agarwal
+USug0JE2oN
+Arizona State University at ASU Research Park
+LoneWolf
+Center
+Average
+15.03822
+3.8076441
+6.1473475
+17
+-
+Lawrence Gossard
+NNbPpFWETP
+Arizona State University at Eastern Arizona College
+CoOperative
+Cornerback
+Talent
+29.052305
+6.610461
+11.285845
+33
+-
+Norbert Case
+MlKl5oygIY
+Arizona State University at Sunnyside Unified School District
+LoneWolf
+Guard
+Good
+17.834072
+4.366814
+7.172493
+20
+-
+Glen Broady
+LSMBcxWekS
+Arizona State University at Tucson
+TeamPlayer
+TightEnd
+Average
+9.691163
+2.7382326
+4.18676
+11
+-
+Asa Petroski
+qD465IWDOU
+Arizona State University at Michael Anderson Elementary School
+CoOperative
+Cornerback
+Talent
+28.82484
+6.564968
+11.202442
+33
+-
+Bill Lillard
+BszAndMl0G
+Arizona State University at San Carlos Unified School District
+CoOperative
+Linebacker
+Talent
+27.58207
+6.316414
+10.746759
+32
+-
+Gerry Judd
+PYK1WhLZTt
+Arizona State University at Sunnyside Unified School District (Esperanza Elem Sc
+CoOperative
+DefensiveTackle
+Talent
+25.668932
+5.9337864
+10.045276
+29
+-
+Quentin Hargrove
+NSA4V3tcJJ
+Arizona State University at Flagstaff
+LoneWolf
+OffensiveTackle
+Good
+18.809996
+4.561999
+7.5303316
+21
+-
+Titus Gosier
+svFOgXGd7I
+Arizona State University at Chandler Instructional Resource Center
+TeamPlayer
+TightEnd
+Average
+9.323359
+2.6646717
+4.051898
+10
+-
+Guillermo Consolini
+9IJS2BK1gr
+Arizona State University at Dysart District Office
+CoOperative
+DefensiveEnd
+Good
+22.966541
+5.393308
+9.054399
+26
+-
+Demetrius Traub
+EM0wKM8PHg
+Arizona State University at Barry Goldwater High School
+CoOperative
+DefensiveTackle
+Talent
+25.207169
+5.8414335
+9.875962
+29
+-
+Jamal Chavarin
+8WPkuchBUq
+Arizona State University at Isaac Junior High School
+LoneWolf
+Center
+Average
+15.324
+3.8648
+6.2521334
+17
+-
+Rusty Budge
+Ph4bxsUKDc
+Arizona State University at Kyrene de la Mariposa School
+CoOperative
+DefensiveEnd
+Good
+21.366407
+5.073282
+8.467683
+24
+-
+Tyree Cardiel
+mzbTaf2f6A
+Arizona State University at Madison School No. 2
+TeamPlayer
+TightEnd
+Average
+9.68055
+2.7361097
+4.182868
+11
+-
+Frederic Toby
+2asNGKM9SR
+Arizona State University at Mesa School Student Service Center
+TeamPlayer
+TightEnd
+Average
+9.292337
+2.6584673
+4.0405235
+10
+-
+Zackary Stabile
+WbJI9ZNMzG
+Arizona State University at Mohave School
+TeamPlayer
+TightEnd
+Average
+8.709234
+2.5418468
+3.826719
+9
+-
+Shad Weiskopf
+T96s2QXkLj
+Arizona State University at Phoenix Prep Academy
+CoOperative
+DefensiveEnd
+Good
+21.417099
+5.08342
+8.486269
+24
+-
+Hayden Jasinski
+oByAJ1QGGe
+Arizona State University at Supai Middle School
+LoneWolf
+OffensiveLine
+Average
+11.247741
+3.0495481
+4.757505
+12
+-
