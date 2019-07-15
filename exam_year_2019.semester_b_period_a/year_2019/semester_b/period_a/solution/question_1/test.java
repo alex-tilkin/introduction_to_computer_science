@@ -1,4 +1,4 @@
-package solution.question_1;
+package year_2019.semester_b.period_a.solution.question_1;
 
 import java.io.FileNotFoundException;
 

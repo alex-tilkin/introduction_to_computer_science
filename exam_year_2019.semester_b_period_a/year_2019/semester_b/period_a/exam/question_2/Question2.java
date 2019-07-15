@@ -1,4 +1,4 @@
-package exam.question_2;
+package year_2019.semester_b.period_a.exam.question_2;
 
 public class Question2 {
 

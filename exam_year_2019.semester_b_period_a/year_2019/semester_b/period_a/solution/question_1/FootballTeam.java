@@ -1,7 +1,7 @@
-package solution.question_1;
+package year_2019.semester_b.period_a.solution.question_1;
 
-import solution.question_1.FootballPlayer;
-import solution.question_1.FootballPlayer.Position;
+import year_2019.semester_b.period_a.solution.question_1.FootballPlayer;
+import year_2019.semester_b.period_a.solution.question_1.FootballPlayer.Position;
 
 public class FootballTeam {
 	private String name;

@@ -1,10 +1,10 @@
-package solution.question_1;
+package year_2019.semester_b.period_a.solution.question_1;
 
 import java.io.FileNotFoundException;
 
-import solution.question_1.DraftContest;
-import solution.question_1.FootballPlayer;
-import solution.question_1.FootballTeam;
+import year_2019.semester_b.period_a.solution.question_1.DraftContest;
+import year_2019.semester_b.period_a.solution.question_1.FootballPlayer;
+import year_2019.semester_b.period_a.solution.question_1.FootballTeam;
 
 public class Question1 {
 
