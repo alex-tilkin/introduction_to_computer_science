@@ -11,7 +11,7 @@ public class Statements {
 			// method invocation statement
 			System.out.println("Hello World!");
 			// object creation statement
-			Bicycle myBike = new Bicycle();
+			//Bicycle myBike = new Bicycle();
 			
 			if(aValue > 0) {
 				System.out.println("this is a control-flow statement");
