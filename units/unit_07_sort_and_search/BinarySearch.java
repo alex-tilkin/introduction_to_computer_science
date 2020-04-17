@@ -2,8 +2,8 @@ package unit_07_sort_and_search;
 
 public class BinarySearch {
 	public static void main(String args[]) {
-		int arr[] = { 2, 3, 4, 10, 40 };
-		int x = 10;
+		int arr[] = { 2, 3, 4, 10, 40, 50, 53, 100, 254, 309, 1000, 1439, 2043, 3000 };
+		int x = 1439;
 		
 		int result = binarySearch(arr, x);
 		if (result == -1){

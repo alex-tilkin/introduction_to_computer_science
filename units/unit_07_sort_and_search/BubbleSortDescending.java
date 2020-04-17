@@ -15,9 +15,9 @@ class BubbleSortDescending{
 		int n = array.length;
 		
 		for (int index = 0; index < n - 1; index++){
-			for (int indexB = 0; indexB < n - index - 1; indexB++){
+			for (int indexB = 0; indexB < n - 1; indexB++){
 				if (array[indexB] < array[indexB + 1]){
-					swap(array, indexB, indexB + 1); 
+					swap(array, indexB, indexB + 1);
 				}
 			}
 		}
