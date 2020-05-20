@@ -10,12 +10,12 @@ public class CreatingCarWithPassengerUsingLoop {
 		boolean isEnoughSpace = true;
 		Car car = new Car("BMW", 2018, 5);
 		String newPassenger;
-		
+
 		do {
 			System.out.print("enter the name of the new passenger: ");
 			newPassenger = scanner.nextLine();
 			isEnoughSpace = car.addPassenger(newPassenger);
-			if(isEnoughSpace) {
+			if (isEnoughSpace) {
 				System.out.println(newPassenger + " was added");
 				System.out.print("Would you like to add another passenger? (y/n)");
 				String continueAnswer = scanner.nextLine();
@@ -23,8 +23,8 @@ public class CreatingCarWithPassengerUsingLoop {
 			} else {
 				System.out.println("Not enough space for " + newPassenger);
 			}
-		}while(isContinue && isEnoughSpace);
-		
+		} while (isContinue && isEnoughSpace);
+
 		car.printPassengers();
 	}
 }

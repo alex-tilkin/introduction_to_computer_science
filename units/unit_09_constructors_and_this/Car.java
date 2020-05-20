@@ -6,12 +6,12 @@ public class Car {
 	private String[] passengers;
 	private int numOfPassengers;
 	private String color;
-	
+
 	public Car(String manufacturer, int manufacturingYear, int maxNumOfPAssengers) {
 		this(manufacturer, manufacturingYear);
 		passengers = new String[maxNumOfPAssengers];
 	}
-	
+
 	public Car(String manufacturer, int manufacturingYear) {
 		System.out.println("In constructor with Params");
 		setManufacturer(manufacturer);
@@ -21,7 +21,7 @@ public class Car {
 	public Car() {
 		System.out.println("In default constructor");
 	}
-	
+
 	public Car(Car otherCar) {
 		manufacturer = otherCar.manufacturer;
 		manufacturingYear = otherCar.manufacturingYear;
@@ -31,22 +31,22 @@ public class Car {
 			passengers[index] = otherCar.passengers[index];
 		}
 	}
-	
+
 	public boolean addPassenger(String newPassenger) {
-		if(numOfPassengers == passengers.length) {
+		if (numOfPassengers == passengers.length) {
 			return false;
 		}
-		
+
 		passengers[numOfPassengers] = newPassenger;
 		numOfPassengers++;
-		
+
 		return true;
 	}
-	
+
 	public int getNumOfPassengers() {
 		return numOfPassengers;
 	}
-	
+
 	public int getMaxNumOfPassengers() {
 		return passengers.length;
 	}
@@ -54,11 +54,11 @@ public class Car {
 	public void printData() {
 		System.out.println("manufacturer: " + getManufacturer() + ", manufacturing year: " + getManufacturingYear());
 	}
-	
+
 	public String getManufacturer() {
 		return manufacturer;
 	}
-	
+
 	public void setManufacturer(String manufacturer) {
 		this.manufacturer = manufacturer;
 	}
@@ -71,7 +71,6 @@ public class Car {
 		this.manufacturingYear = manufacturingYear;
 	}
 
-	
 	public void printPassengers() {
 		System.out.println("The passengers are:");
 		for (int index = 0; index < numOfPassengers; index++) {
