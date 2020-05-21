@@ -39,7 +39,7 @@ public class FootballTeam {
 	}
 
 	public String toString() {
-		StringBuffer stringBuffer = new StringBuffer(String.format("Name: %s, Number of Football Players: %d", name, numberOfFootballPlayers));
+		StringBuffer stringBuffer = new StringBuffer(String.format("Name: %s, Number of Football Players: %d\n", name, numberOfFootballPlayers));
 		
 		for (int index = 0; index < numberOfFootballPlayers; index++) {
 			stringBuffer.append("\t" + (index + 1) + ")" + footballPlayers[index].toString() + "\n");
