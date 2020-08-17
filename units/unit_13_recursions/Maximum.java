@@ -11,7 +11,7 @@ public class Maximum {
 	}
 
 	private static int findMaximum(int[] array, int length) {
-		if(length == 0) {
+		if(length == 1) {
 			return array[0];
 		}
 		

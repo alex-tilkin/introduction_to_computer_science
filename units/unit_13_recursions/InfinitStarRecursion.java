@@ -6,7 +6,7 @@ public class InfinitStarRecursion {
 	}
 	
 	public static void star() {
-		System.out.println("*");
+		System.out.print("*");
 		
 		star();
 	}

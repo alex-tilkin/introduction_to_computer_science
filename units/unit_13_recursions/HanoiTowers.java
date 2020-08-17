@@ -4,7 +4,7 @@ public class HanoiTowers {
 
 	public static void main(String[] args) {
 		int numberOfDisks = 3;
-		solveHanoiTowers(3, 'A', 'B', 'C');
+		solveHanoiTowers(numberOfDisks, 'A', 'B', 'C');
 	}
 
 	private static void solveHanoiTowers(int numberOfDisks, char source, char destination, char help) {
